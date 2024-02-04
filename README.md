@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, Myself Omkar</h1>
 <h4 align="left">An enthusiastic software developer with pursuing Diploma in CS from AGPPI of Solapur , I have 3+ years of experience in the Software Development </h3>
 <br/>
-<img align="right" alt="coder-gif" width="400" src="https://github.com/Omkar2k5/Omkar/blob/master/coder1.gif" >
+<img align="right" alt="coder-gif" width="400" src="https://github.com/Omkar2k5/Omkar2k5/coder1.gif" >
 
 - 🔭 I work on ** Mobile App Development, Deep Learning, C / C++ Console Applications , Java programming , Corporate Presentations , Excels & Power BI , Technical Writing and Content Writing**  
 
