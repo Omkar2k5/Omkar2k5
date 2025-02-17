@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, Myself Omkar</h1>
-<h4 align="left">An enthusiastic software developer with pursuing Diploma in CS from AGPPI of Solapur , I have 3+ years of experience in the Software Development </h3>
+<h4 align="left">An enthusiastic software developer with pursuing Degree at VIT Pune & Completed Diploma at AGPPI , I have 3+ years of experience in the Software Development / Data Analysis and AI tools </h3>
 <br/>
 <img align="right" alt="coder-gif" width="400" src="https://github.com/Omkar2k5/Omkar2k5/blob/04a7883abea218142d2dfb1fc87a9781233eeb65/coder1 .gif" >
 
