@@ -5,7 +5,7 @@
 <br/>
 <img align="right" alt="coder-gif" width="400" src="https://github.com/Omkar2k5/Omkar2k5/blob/04a7883abea218142d2dfb1fc87a9781233eeb65/coder1 .gif" >
 
-- 🔭 I work on ** Mobile App Development, Deep Learning, C / C++ Console Applications , Java programming , Corporate Presentations , Excels & Power BI , Technical Writing and Content Writing**  
+- 🔭 I work on Web-App Development, Deep Learning, Rust Backend-Applications ,Python Rest API's ,LLMS Custimization , AI Agents,  Technical Writing and Content Writing**
 
 - 🌱 I’m currently learning **AI as well as Full Stack Development **
 
